@@ -1,0 +1,47 @@
+[project]
+name = "rag-project"
+version = "0.1.0"
+description = "RAG Book Chat using LangChain, ChromaDB, HuggingFace Embeddings, and Mistral AI"
+readme = "README.md"
+requires-python = ">=3.12"
+
+dependencies = [
+    "streamlit",
+
+    "langchain",
+    "langchain-core",
+    "langchain-community",
+    "langchain-chroma",
+    "langchain-mistralai",
+    "langchain-huggingface",
+
+    "chromadb",
+
+    "mistralai",
+
+    "python-dotenv",
+
+    "sentence-transformers",
+    "transformers",
+    "torch",
+    "torchvision",
+    "tiktoken",
+
+    "pypdf",
+    "pdfplumber",
+    "pymupdf",
+    "unstructured",
+    "python-docx",
+    "docx2txt",
+
+    "requests",
+    "beautifulsoup4",
+
+    "numpy",
+    "pandas",
+
+    "faiss-cpu",
+    "rank-bm25",
+
+    "arxiv",
+]
