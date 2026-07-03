@@ -48,7 +48,23 @@ RAG-Book-Chat/
 ├── vector store/
 └── assets/
 ```
+## 📸 Screenshots
 
+### 🏠 Home Screen
+
+![Home Screen](assets/Rag_interface.png)
+
+---
+
+### 📄 Upload PDF & Create Vector Database
+
+![Upload PDF](assets/Rag_interface2.png)
+
+---
+
+### 💬 Ask Questions Using RAG
+
+![Chat Interface](assets/Rag_interface3.png)
 ---
 
 ## ⚙️ Installation
